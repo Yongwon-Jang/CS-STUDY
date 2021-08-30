@@ -1,2 +1,4 @@
 # CS-STUDY
-리드미 작성중...
+
+https://www.youtube.com/channel/UCl9zTDOvOxdCfUt1HqVwwdg
+수업 내용 
