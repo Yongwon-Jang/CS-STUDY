@@ -66,7 +66,7 @@
 | 1    | :white_check_mark:   | 1        | [4장 실제로 컴퓨터끼리는 IP주소를 사용해 데이터를 주고받는다.](네트워크/4장%20실제로%20컴퓨터끼리는%20IP주소를%20사용해%20데이터를%20주고받는다.md) |                                                |
 | 1    | :white_check_mark:   | 2        | [5장 ARP 프로토콜(3계층)](네트워크/5장%20ARP%20프로토콜(3계층).md)                                              |                                                |
 | 2    | :white_check_mark:   | 2        | [6장 4계층 프로토콜](네트워크/6장%204계층%20프로토콜.md)                                                        |                                                |
-| 2    | :white_large_square: | 1        | [7장 IPv4 프로토콜](7장%20IPv4%20프로토콜.md)                                                         |                                                |
+| 2    | :white_check_mark: | 1        | [7장 IPv4 프로토콜](7장%20IPv4%20프로토콜.md)                                                         |                                                |
 | 2    | :white_large_square: | 2        | [9장 TCP 연결지향형](네트워크/9장-TCP-연결지향형.md)                                                          |                                                |
 | 2    | :white_large_square: | 1        | [10장 NAT와 포트포워딩](네트워크/10장-NAT와-포트포워딩.md)                                                      |                                                |
 | 2    | :white_large_square: | 2        | [11장 HTTP 프로토콜](네트워크/11장-HTTP-프로토콜.md)                                                        |                                                |
